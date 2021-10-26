@@ -3,7 +3,6 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
 
-
 export default function Navbar() {
   const router = useRouter();
   console.log(router.asPath);
@@ -23,10 +22,16 @@ export default function Navbar() {
           <Link href="/">
             <a>
               <h1 className="font-semibold text-xl dark:text-gray-100">
-                LogoName
+                <img
+                  src="/logo.jpg"
+                  height="100"
+                  width="100"
+                  alt="avatar"
+                  className=" shadow"
+                />
               </h1>
               <p className="text-base font-light text-gray-500 dark:text-gray-300">
-                boss
+                CISZKOCONTRACTING
               </p>
             </a>
           </Link>
