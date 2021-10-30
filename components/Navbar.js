@@ -30,9 +30,7 @@ export default function Navbar() {
                   className=" shadow"
                 />
               </h1>
-              <p className="text-base font-light text-gray-500 dark:text-gray-300">
-                CISZKOCONTRACTING
-              </p>
+          
             </a>
           </Link>
         </div>
