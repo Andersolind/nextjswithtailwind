@@ -5,12 +5,9 @@ import Navbar from "../Navbar";
 export default function Hero() {
   let backgroundImageUrl = "./image1.jpeg";
 
-  let backgroundImageUrl2 =
-    "https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ)";
   let heroStyle = {
     backgroundImage: "url(" + backgroundImageUrl + ")",
   };
-  let heroStyle2 = { backgroundImage: "url(" + backgroundImageUrl2 + ")" };
 
   return (
     <>
@@ -22,8 +19,8 @@ export default function Hero() {
           className="min-h-screen hero-image bg-center bg-cover flex"
           style={heroStyle}
         >
-          <div class="container mx-auto px-6">
-            <h2 class="text-4xl font-bold mb-2 text-white">
+          <div className="container mx-auto px-6">
+            <h2 className="text-4xl font-bold mb-2 text-white">
               Let use build your next dream Kitchen or Bathroom
             </h2>
           </div>

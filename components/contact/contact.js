@@ -77,7 +77,7 @@ export const ContactForm = () => (
       <div className="flex justify-end py-4">
         <button
           type="submit"
-          class="bg-blue-700 text-white font-bold py-2 px-4 rounded focus:ring focus:ring-blue-300 hover:bg-blue-500"
+          className="bg-blue-700 text-white font-bold py-2 px-4 rounded focus:ring focus:ring-blue-300 hover:bg-blue-500"
         >
           Submit
         </button>

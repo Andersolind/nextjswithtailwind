@@ -7,13 +7,16 @@ import About from "../components/about/about";
 export default function Home() {
   return (
     <div>
-      <head>
+      <Head>
         <title>CISZKOCONTRACTING</title>
-        <meta name="description" content="Best Kitchen and Bathroom renovations in Toronto" />
+        <meta
+          name="description"
+          content="Best Kitchen and Bathroom renovations in Toronto"
+        />
         <link rel="icon" href="/favicon.ico" />
-      </head>
+      </Head>
       <Hero />
-      <About/>
+      <About />
     </div>
   );
 }
