@@ -8,14 +8,24 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>
-          CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
-          Oakville and Mississauga{" "}
-        </title>
+        <meta name="robots" content="follow, index" />
+
+        <meta property="og:url" content="http://ikeahomebuilder.com" />
+        <link rel="canonical" href="http://ikeahomebuilder.com" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
-          name="description"
-          content="Best Kitchen and Bathroom renovations in Toronto"
+          property="og:description"
+          content="Best Kitchen and Bathroom renovations in Toronto | Oakvile | Hamilton"
         />
+        <meta
+          property="og:title"
+          content="CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
+          Oakville and Mississauga"
+        />
+
+        <meta property="article:published_time" content={Date.now()} />
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero />
