@@ -9,7 +9,8 @@ export default function Home() {
     <div>
       <Head>
         <title>
-          CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto{" "}
+          CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
+          Oakville and Mississauga{" "}
         </title>
         <meta
           name="description"
