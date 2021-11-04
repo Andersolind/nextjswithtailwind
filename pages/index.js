@@ -18,6 +18,7 @@ export default function Home() {
           property="og:description"
           content="Best Kitchen and Bathroom renovations in Toronto | Oakvile | Hamilton"
         />
+        <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
           content="CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
