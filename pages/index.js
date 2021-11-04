@@ -10,6 +10,10 @@ export default function Home() {
         <meta property="og:url" content="http://ikeahomebuilder.com" />
         <link rel="canonical" href="http://ikeahomebuilder.com" />
         <meta property="og:type" content="website" />
+        <meta
+          name="google-site-verification"
+          content="JeCc0HHrib-Cot3nHlXj0MAei9c9xUQY_6tXsP5Uu3E"
+        />
         <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
           property="og:description"
