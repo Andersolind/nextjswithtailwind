@@ -143,7 +143,7 @@ export default function Navbar() {
 
         <div className="space-x-4 flex flex-row items-center">
           <a
-            href=""
+            href="https://www.instagram.com/ciszkocontracting"
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg

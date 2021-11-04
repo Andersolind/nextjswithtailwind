@@ -16,16 +16,16 @@ export default function Hero() {
       </div>
       <section className="bg-red-200 text-green-900 relative">
         <div
-          className="min-h-screen hero-image bg-center bg-cover flex"
+          className="min-h-screen hero-image  bg-center bg-cover flex"
           style={heroStyle}
         >
           <div className="container mx-auto px-6">
             <h2 className="text-4xl font-bold mb-2 text-white">
-              Let us build your next dream Kitchen or Bathroom Our Kitchen
+              Let us build your next dream Kitchen or Bathroom. Our Kitchen
               specialists tailor fit your Ikea dreams and make them real.
             </h2>
             <h1 className="text-4xl font-bold mb-2 text-white">
-              Toronto Kitchen and Bathroom specialists. Our team gives you a
+              Toronto Kitchen and Bathroom specialists. Let our team gives you a
               step by step process inorder to acheive your dream renovation.
             </h1>
           </div>
