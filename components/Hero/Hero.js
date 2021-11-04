@@ -21,8 +21,13 @@ export default function Hero() {
         >
           <div className="container mx-auto px-6">
             <h2 className="text-4xl font-bold mb-2 text-white">
-              Let use build your next dream Kitchen or Bathroom
+              Let us build your next dream Kitchen or Bathroom Our Kitchen
+              specialists tailor fit your Ikea dreams and make them real.
             </h2>
+            <h1 className="text-4xl font-bold mb-2 text-white">
+              Toronto Kitchen and Bathroom specialists. Our team gives you a
+              step by step process inorder to acheive your dream renovation.
+            </h1>
           </div>
           <div className="relative container p-4 flex items-end z-10">
             <div>
