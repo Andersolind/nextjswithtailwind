@@ -2,8 +2,6 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
-import Image from "next/image";
-import logo from "../public/logo.jpg";
 
 export default function Navbar() {
   const router = useRouter();
@@ -24,12 +22,10 @@ export default function Navbar() {
           <Link href="/">
             <a>
               <h1 className="font-semibold text-xl dark:text-gray-100">
-                <Image
-                  src={logo}
-                  alt="Profile"
-                  priority={true}
-                  height={100}
-                  width={100}
+                <img
+                  src="/logo.jpg"
+                  height="100"
+                  width="100"
                   alt="avatar"
                   className=" shadow"
                 />
