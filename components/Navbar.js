@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
 import Image from "next/image";
-import logo from "logo.jpg";
+import logo from "../public/logo.jpg";
 
 export default function Navbar() {
   const router = useRouter();
