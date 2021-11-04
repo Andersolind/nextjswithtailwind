@@ -3,7 +3,7 @@ import { ContactForm } from "../contact/contact";
 import Navbar from "../Navbar";
 
 export default function Hero() {
-  let backgroundImageUrl = "/public/image1.jpeg";
+  let backgroundImageUrl = "./image1.jpeg";
 
   let heroStyle = {
     backgroundImage: "url(" + backgroundImageUrl + ")",
