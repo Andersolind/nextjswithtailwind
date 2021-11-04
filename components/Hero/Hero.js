@@ -1,12 +1,15 @@
-import Image from "next/image";
-import { ContactForm } from "../contact/contact";
-import Navbar from "../Navbar";
+
+import Navbar from "../Navbar/Navbar";
 
 export default function Hero() {
   let backgroundImageUrl = "./image1.jpeg";
 
   let heroStyle = {
     backgroundImage: "url(" + backgroundImageUrl + ")",
+  };
+
+  let setOverlay = {
+    backgroundColor: "rgba(52, 52, 52, 0.3)",
   };
 
   return (
@@ -19,8 +22,8 @@ export default function Hero() {
           className="min-h-screen hero-image  bg-center bg-cover flex"
           style={heroStyle}
         >
-          <div className="container mx-auto px-6">
-            <h2 className="text-4xl font-bold mb-2 text-white">
+          <div style={setOverlay} className="container mx-auto px-6">
+            <h2 className="text-4xl font-bold mb-2 text-white ">
               Let us build your next dream Kitchen or Bathroom. Our Kitchen
               specialists tailor fit your Ikea dreams and make them real.
             </h2>
@@ -31,7 +34,6 @@ export default function Hero() {
           </div>
           <div className="relative container p-4 flex items-end z-10">
             <div>
-              <ContactForm />
               <div className="content float-left py-4 px-5 my-5"></div>
               <div className="cta clear-left px-5">
                 <a
