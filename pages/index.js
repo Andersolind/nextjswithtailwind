@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Hero from "../components/Hero/Hero";
 import About from "../components/About/About";
-import ContactForm from "../components/Contact/Contact";
 export default function Home() {
   return (
     <div>
