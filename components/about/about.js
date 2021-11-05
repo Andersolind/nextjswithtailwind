@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import profile from "/public/image4.jpeg";
 
-export default function About(){
+export default function About() {
   return (
     <div className="container px-4 mx-auto">
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
@@ -62,6 +62,4 @@ export default function About(){
       </div>
     </div>
   );
-};
-
-export default About;
+}
