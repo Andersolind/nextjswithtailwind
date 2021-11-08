@@ -237,11 +237,11 @@ export default function Navbar() {
             Experience
           </a>
         </Link>
-        <Link href="/contact">
-          <a className="text-base font-normal text-gray-600 dark:text-gray-300">
-            Contact
-          </a>
-        </Link>
+
+        <a className="text-base font-normal text-gray-600 dark:text-gray-300">
+          Contact
+        </a>
+        <a href="tel:647 271-9727">Contact</a>
       </div>
     </div>
   );

@@ -17,7 +17,7 @@ export default function Home() {
         <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
           property="og:description"
-          content="Best Kitchen and Bathroom renovations in Toronto | Oakvile | Hamilton"
+          content="Best Ikea home builder planner | Kitchen and Bathroom renovations in Toronto | Oakvile | Hamilton"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
