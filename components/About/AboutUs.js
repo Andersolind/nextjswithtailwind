@@ -8,23 +8,23 @@ export default function About() {
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            How can we help you plan your dream kitchen,
+            How can we help you plan your dream Ikea planner kitchen,
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              1. Start With Function It’s really important to think about how
-              you and your family spend time in the space. If you know you like
-              to eat at the island, that’s an important consideration. If you
-              have multiple chefs, consider how you want to work together. Do
-              you always eat at the dining room table? Do you need a prep area
-              that’s separate from the main cooking area?
+              1. Start With what makes sense ! It’s really important to think
+              about how time is going to be spent in your newly renovated Ikea
+              planner kitchen. If you know you like to eat at in the
+              middle(island), think about sharable space as well. Do you always
+              eat at the dining room table or in front of the tv? Then you can
+              work with our Ikea kitchen planner expert contractors today!
             </p>
           </div>
         </div>
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile}
-            alt="Profile"
+            alt="Ikea home builder in Mississauga"
             priority={true}
             className="rounded-full"
             width={250}
@@ -37,7 +37,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile}
-            alt="Profile"
+            alt="Ikea home builder in Toronto"
             priority={true}
             className="rounded-full"
             width={250}
@@ -52,10 +52,34 @@ export default function About() {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              In the bathroom or kitchen we all need space Do you want to
-              dedicate space to a second deep sink — or would you rather have an
-              amazing custom counter? Careful planning will allow you to design
-              a space that works for you.
+              With our expert Ikea builder bathroom or kitchen ideas, we suggest
+              to use all need space. Careful planning with our experts, will
+              allow you to design a space that works for you and your family.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
+        <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
+          <Image
+            src={profile}
+            alt="Ikea home builder in Ancaster"
+            priority={true}
+            className="rounded-full"
+            width={250}
+            height={250}
+            placeholder="blur"
+          />
+        </div>
+
+        <div className="lg:px-4 lg:mt-12 ">
+          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+            3. Pick out your decor,
+          </h1>
+          <div className="mt-6 text-gray-800 dark:text-white">
+            <p className="mb-4">
+              Our Ikea home builder experts will build your Bathroom or kitchen
+              based on your style
             </p>
           </div>
         </div>

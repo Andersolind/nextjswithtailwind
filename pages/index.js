@@ -17,12 +17,12 @@ export default function Home() {
         <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
           property="og:description"
-          content="Ikea home builder planner | Kitchen and Bathroom renovations in Toronto | Oakvile | Hamilton"
+          content="Ikea home builder planner | Expert Ikea Kitchen and Bathroom contractors in Toronto | Oakvile | Hamilton"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
-          content="Ikea home builder planner |CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
+          content="Ikea home builder in Ancaster |CISZKOCONTRACTING | Best Kitchen and Bathroom renovations in Toronto ,
           Oakville and Mississauga"
         />
 
