@@ -1,6 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import profile from "/public/image4.jpeg";
+import bathroom from "/public/best-bathroom-renovations-in-hamilton.jpeg";
+import bathroomVanity from "/public/best-bathroom-renovations-in-toronto.jpeg";
 
 export default function About() {
   return (
@@ -80,6 +82,57 @@ export default function About() {
             <p className="mb-4">
               Our Ikea home builder experts will build your Bathroom or kitchen
               based on your style
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
+        <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
+          <Image
+            src={bathroom}
+            alt="Best bathroom renovations in Toronto"
+            priority={true}
+            className="rounded-full"
+            width={250}
+            height={250}
+            placeholder="blur"
+          />
+        </div>
+
+        <div className="lg:px-4 lg:mt-12 ">
+          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+            4. Your future bathroom,
+          </h1>
+          <div className="mt-6 text-gray-800 dark:text-white">
+            <p className="mb-4">
+              Ikea bathrooms can be hard to design let our designers carefully
+              deisgn this for you.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
+        <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
+          <Image
+            src={bathroomVanity}
+            alt="Best bathroom renovations in Toronto"
+            priority={true}
+            className="rounded-full"
+            width={250}
+            height={250}
+            placeholder="blur"
+          />
+        </div>
+
+        <div className="lg:px-4 lg:mt-12 ">
+          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+            5. Finalize stages,
+          </h1>
+          <div className="mt-6 text-gray-800 dark:text-white">
+            <p className="mb-4">
+              Designing bathrooms and doing full renovations with contractors
+              can be a very hard task. Let our Ikea spcialists assit you in
+              getting your picture perfect bathroom ready.
             </p>
           </div>
         </div>
