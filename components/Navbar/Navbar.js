@@ -26,7 +26,7 @@ export default function Navbar() {
                   src="/logo.jpg"
                   height="100"
                   width="100"
-                  alt="avatar"
+                  alt="Ikea Home planner"
                   className=" shadow"
                 />
               </h1>
@@ -238,7 +238,10 @@ export default function Navbar() {
           </a>
         </Link>
 
-        <a href="tel:647 271-9727" className="text-base font-normal text-gray-600 dark:text-gray-300">
+        <a
+          href="tel:647 271-9727"
+          className="text-base font-normal text-gray-600 dark:text-gray-300"
+        >
           Contact
         </a>
       </div>

@@ -134,6 +134,11 @@ export default function About() {
               can be a very hard task. Let our Ikea spcialists assit you in
               getting your picture perfect bathroom ready.
             </p>
+
+            <p className="mb-4">
+              Contact Us Today!
+              <a href="tel:+1-647-271-9727">1-647-271-9727</a>
+            </p>
           </div>
         </div>
       </div>
