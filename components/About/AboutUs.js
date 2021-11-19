@@ -115,7 +115,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={bathroomVanity}
-            alt="Best bathroom renovations in Toronto"
+            alt="Toronto kitchen and bathroom contractors"
             priority={true}
             className="rounded-full"
             width={250}
@@ -135,10 +135,8 @@ export default function About() {
               getting your picture perfect bathroom ready.
             </p>
 
-            <p className="mb-4">
-              Contact Us Today!
-              <a href="tel:+1-647-271-9727">1-647-271-9727</a>
-            </p>
+            <p className="mb-4">Contact Us Today!</p>
+            <a href="tel:+1-647-271-9727">1-647-271-9727</a>
           </div>
         </div>
       </div>
