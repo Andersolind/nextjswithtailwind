@@ -16,10 +16,11 @@ export default function About() {
             <p className="mb-4">
               1. Start With what makes sense ! It’s really important to think
               about how time is going to be spent in your newly renovated Ikea
-              planner kitchen. If you know you like to eat at in the
+              kitchen planner. If you know you like to eat at in the
               middle(island), think about sharable space as well. Do you always
               eat at the dining room table or in front of the tv? Then you can
               work with our Ikea kitchen planner expert contractors today!
+              Toronto Kitchen experts are here to help you.
             </p>
           </div>
         </div>
