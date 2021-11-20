@@ -7,7 +7,9 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
 
-        <title>Best Kitchen and bathroom renovation in Toronto </title>
+        <title>
+          Toronto Kitchen and Bathroom Kitchen Remodelers | Ciszkocontracting
+        </title>
         <meta property="og:url" content="http://ikeahomebuilder.com" />
         <link rel="canonical" href="http://ikeahomebuilder.com" />
         <meta property="og:type" content="website" />
