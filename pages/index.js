@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
 
+        <title>Best Kitchen and bathroom renovation in Toronto </title>
         <meta property="og:url" content="http://ikeahomebuilder.com" />
         <link rel="canonical" href="http://ikeahomebuilder.com" />
         <meta property="og:type" content="website" />
