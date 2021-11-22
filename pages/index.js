@@ -6,7 +6,6 @@ export default function Home() {
     <div>
       <Head>
         <meta name="robots" content="follow, index" />
-
         <title>
           Toronto Kitchen and Bathroom Kitchen Remodelers | Ciszkocontracting
         </title>
@@ -20,12 +19,13 @@ export default function Home() {
         <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
           property="og:description"
-          content="Ikea home planner | Expert Ikea Kitchen and Bathroom contractors in Toronto | Oakvile | Hamilton"
+          content="Ikea home planner Ancaster | Toronto Kitchen and Bathroom Kitchen Remodelers | Oakvile | Hamilton"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
-          content="Ikea home builder in Ancaster | CISZKOCONTRACTING | Best Kitchen and Bathroom company in Toronto ,
+          content="
+           | CISZKOCONTRACTING | Toronto Kitchen and Bathroom Kitchen Remodelers ,
           Oakville and Mississauga"
         />
 
