@@ -69,7 +69,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile}
-            alt="Ikea home builder in Ancaster"
+            alt="Best renovation company in ancaster"
             priority={true}
             className="rounded-full"
             width={250}
