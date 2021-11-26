@@ -4,6 +4,7 @@ import profile from "/public/ikea-best-kitchen.jpeg";
 import profile2 from "/public/image5.jpeg";
 import bathroom from "/public/ikea-home-planner-ancaster.jpeg";
 import bathroomVanity from "/public/Ikea-home-planner.jpeg";
+import bath from "/public/best-bathroom-renovations-in-toronto.jpeg";
 
 export default function About() {
   return (
@@ -92,7 +93,7 @@ export default function About() {
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
-            src={bathroom}
+            src={bath}
             alt="Best bathroom renovations in Toronto"
             priority={true}
             className="rounded-full"
