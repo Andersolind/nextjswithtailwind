@@ -7,10 +7,10 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Toronto Kitchen and Bathroom Kitchen Remodelers | Ciszkocontracting
+          Ancaster Kitchen and Bathroom Kitchen Renovation | Ciszkocontracting
         </title>
-        <meta property="og:url" content="http://ikeahomebuilder.com" />
-        <link rel="canonical" href="http://ikeahomebuilder.com" />
+        <meta property="og:url" content="https://ikeahomebuilder.com" />
+        <link rel="canonical" href="https://ikeahomebuilder.com" />
         <meta property="og:type" content="website" />
         <meta
           name="google-site-verification"
@@ -19,13 +19,13 @@ export default function Home() {
         <meta property="og:site_name" content="Ciszkocontracting" />
         <meta
           property="og:description"
-          content="Ikea home planner Ancaster | Toronto Kitchen and Bathroom Kitchen Remodelers | Oakvile | Hamilton"
+          content="Ikea home planner Ancaster | Ancaster Kitchen and Bathroom renovation | Oakvile | Hamilton"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
           content="
-           | CISZKOCONTRACTING | Toronto Kitchen and Bathroom Kitchen Remodelers ,
+           | CISZKOCONTRACTING | Ancaster Kitchen and Bathroom renovation ,
           Oakville and Mississauga"
         />
 
