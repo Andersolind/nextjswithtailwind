@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Ancaster Kitchen and Bathroom Kitchen Renovation | Ciszkocontracting
+          Etobicoke Kitchen and Bathroom Renovation | Ciszkocontracting
         </title>
         <meta property="og:url" content="https://ikeahomebuilder.com" />
         <link rel="canonical" href="https://ikeahomebuilder.com" />
@@ -26,7 +26,7 @@ export default function Home() {
           property="og:title"
           content="
            | CISZKOCONTRACTING | Ancaster Kitchen and Bathroom renovation ,
-          Oakville and Mississauga"
+         Toronto, Oakville and Mississauga"
         />
 
         <meta property="article:published_time" content={Date.now()} />
