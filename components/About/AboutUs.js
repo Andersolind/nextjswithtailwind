@@ -10,35 +10,41 @@ export default function About() {
   return (
     <div className="container px-4 mx-auto">
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
-        <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            We are the best kitchen remodelers in Anacster we work with
-            Ciszkocontracting to finalize our designs - How can we help you plan
-            your dream Ikea kitchen and bathroom renovation,
-          </h1>
-          <div className="mt-6 text-gray-800 dark:text-white">
-            <p className="mb-4">
-              What are Cabinets? – the cabinets are a charcoal stain on maple,
-              while the island interior and floating shelves are amaziing .
-              Certain colors have come a long way. It’s very durable, mimics
-              wood grains and is very affordable. The combination of dark and
-              light provides a perfect contrast for alot of happy clients. the
-              contemporary lines some warmth in the wood tones. 2. Dedicated
-              Coffee Station – at the end of the kitchen, a coffee station
-              houses mugs, coffee maker and a variety of beverages, with open
-              and closed shelving to display décor items. It’s conveniently
-              located next to the dedicated living room. 3. Floating Recycling
-              Station – placed in the island next to the prep sink, it provides
-              convenience for garbage, recycling and composting, along with a
-              shelf to store garbage bag supplies. 5’ Island – the large island
-              is multi-functional, providing ample prep surface, a sink,
-              recycling/garbage, microwave, stores all the mini appliances, a
-              bookshelf for displaying cookbooks and storing vegetables, and
-              offers secondary eating space for every day casual meals and
-              becomes a serving area when hosting and entertaining guests.
-            </p>
+        <section>
+          <div className="lg:px-4 lg:mt-12 ">
+            <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+              We are the best kitchen remodelers in Anacster we work with
+              Ciszkocontracting to finalize our designs - How can we help you
+              plan your dream Ikea kitchen and bathroom renovation.
+            </h1>
+            <section>
+              <div className="mt-6 text-gray-800 dark:text-white">
+                <p className="mb-4">
+                  What are Cabinets? – the cabinets are a charcoal stain on
+                  maple, while the island interior and floating shelves are
+                  amaziing . Certain colors have come a long way. It’s very
+                  durable, mimics wood grains and is very affordable. The
+                  combination of dark and light provides a perfect contrast for
+                  alot of happy clients. the contemporary lines some warmth in
+                  the wood tones. 2. Dedicated Coffee Station – at the end of
+                  the kitchen, a coffee station houses mugs, coffee maker and a
+                  variety of beverages, with open and closed shelving to display
+                  décor items. It’s conveniently located next to the dedicated
+                  living room. 3. Floating Recycling Station – placed in the
+                  island next to the prep sink, it provides convenience for
+                  garbage, recycling and composting, along with a shelf to store
+                  garbage bag supplies. 5’ Island – the large island is
+                  multi-functional, providing ample prep surface, a sink,
+                  recycling/garbage, microwave, stores all the mini appliances,
+                  a bookshelf for displaying cookbooks and storing vegetables,
+                  and offers secondary eating space for every day casual meals
+                  and becomes a serving area when hosting and entertaining
+                  guests.
+                </p>
+              </div>
+            </section>
           </div>
-        </div>
+        </section>
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile2}
