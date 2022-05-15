@@ -7,8 +7,8 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Kitchen & Bathroom Renovation Anacaster | Ciszkocontracting | Best
-          kitchen remodler in Ancaster
+          Top Kitchen & Bathroom Renovation Anacaster | Ciszkocontracting | Best
+          kitchen remodler in Ancaster | Burlington
         </title>
         <meta property="og:url" content="https://ikeahomebuilder.com" />
         <link rel="canonical" href="https://ikeahomebuilder.com" />
