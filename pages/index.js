@@ -7,7 +7,8 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Etobicoke Kitchen and Bathroom Renovation | Ciszkocontracting
+          Kitchen & Bathroom Renovation Anacaster | Ciszkocontracting | Best
+          kitchen remodler in Ancaster
         </title>
         <meta property="og:url" content="https://ikeahomebuilder.com" />
         <link rel="canonical" href="https://ikeahomebuilder.com" />
@@ -16,17 +17,15 @@ export default function Home() {
           name="google-site-verification"
           content="JeCc0HHrib-Cot3nHlXj0MAei9c9xUQY_6tXsP5Uu3E"
         />
-        <meta property="og:site_name" content="Ciszkocontracting" />
+        <meta property="og:site_name" content="ikeahomebuilder" />
         <meta
           property="og:description"
-          content="Ikea home planner Ancaster | Ancaster Kitchen and Bathroom renovation | Oakvile | Hamilton"
+          content="Find the best designed ikea kitchen renovations in Ancaster, Burlington, Ancaster, Dundas and the GTA"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
-          content="
-           | CISZKOCONTRACTING | Ancaster Kitchen and Bathroom renovation ,
-         Toronto, Oakville and Mississauga"
+          content="Best Kitchen Design & Renovation In Ancaster | Ciszkocontracting | Amazing Ikea Kitchens"
         />
 
         <meta property="article:published_time" content={Date.now()} />

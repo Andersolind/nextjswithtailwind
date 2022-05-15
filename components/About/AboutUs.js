@@ -12,18 +12,30 @@ export default function About() {
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            CISZKOCONTRACTING- How can we help you plan your dream Ikea kitchen
-            and bathroom renovation,
+            We are the best kitchen remodelers in Anacster we work with
+            Ciszkocontracting to finalize our designs - How can we help you plan
+            your dream Ikea kitchen and bathroom renovation,
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              1. Start With what makes sense! It’s really important to think
-              about how time is going to be spent in your newly renovated Ikea
-              kitchen planner. If you know you like to eat at in the
-              middle(island), think about sharable space as well. Do you always
-              eat at the dining room table or in front of the tv? Then you can
-              work with our Ikea kitchen planner expert contractors today!
-              Toronto Kitchen experts are here to help you.
+              What are Cabinets? – the cabinets are a charcoal stain on maple,
+              while the island interior and floating shelves are amaziing .
+              Certain colors have come a long way. It’s very durable, mimics
+              wood grains and is very affordable. The combination of dark and
+              light provides a perfect contrast for alot of happy clients. the
+              contemporary lines some warmth in the wood tones. 2. Dedicated
+              Coffee Station – at the end of the kitchen, a coffee station
+              houses mugs, coffee maker and a variety of beverages, with open
+              and closed shelving to display décor items. It’s conveniently
+              located next to the dedicated living room. 3. Floating Recycling
+              Station – placed in the island next to the prep sink, it provides
+              convenience for garbage, recycling and composting, along with a
+              shelf to store garbage bag supplies. 5’ Island – the large island
+              is multi-functional, providing ample prep surface, a sink,
+              recycling/garbage, microwave, stores all the mini appliances, a
+              bookshelf for displaying cookbooks and storing vegetables, and
+              offers secondary eating space for every day casual meals and
+              becomes a serving area when hosting and entertaining guests.
             </p>
           </div>
         </div>
@@ -58,9 +70,9 @@ export default function About() {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              With our expert Ikea builder bathroom or kitchen ideas, we suggest
-              to use all need space. Careful planning with our experts, will
-              allow you to design a space that works for you and your family.
+              Amazing Shelves – floating shelves are best put near the corner
+              window to allow for light and to display items in your home. The
+              purpose was to make the kitchen part of the living space.
             </p>
           </div>
         </div>
@@ -84,8 +96,11 @@ export default function About() {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              Our Ikea home builder experts will build your Bathroom or kitchen
-              based on your style
+              Microwave Drawer – placing the microwave in the island is
+              convenient and safe,reaching up to remove a hot containers can
+              leave your day ruined Valence – the under-cabinet light is hidden
+              behind the doors, creating a beautiful seamless clean look is key
+              to having a happy kitchen.
             </p>
           </div>
         </div>
