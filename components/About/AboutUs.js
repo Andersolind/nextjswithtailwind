@@ -26,20 +26,26 @@ export default function About() {
                   durable, mimics wood grains and is very affordable. The
                   combination of dark and light provides a perfect contrast for
                   alot of happy clients. the contemporary lines some warmth in
-                  the wood tones. 2. Dedicated Coffee Station – at the end of
-                  the kitchen, a coffee station houses mugs, coffee maker and a
-                  variety of beverages, with open and closed shelving to display
-                  décor items. It’s conveniently located next to the dedicated
-                  living room. 3. Floating Recycling Station – placed in the
-                  island next to the prep sink, it provides convenience for
-                  garbage, recycling and composting, along with a shelf to store
-                  garbage bag supplies. 5’ Island – the large island is
-                  multi-functional, providing ample prep surface, a sink,
-                  recycling/garbage, microwave, stores all the mini appliances,
-                  a bookshelf for displaying cookbooks and storing vegetables,
-                  and offers secondary eating space for every day casual meals
-                  and becomes a serving area when hosting and entertaining
-                  guests.
+                  the wood tones.
+                </p>
+
+                <p>
+                  2. Dedicated Coffee Station – at the end of the kitchen, a
+                  coffee station houses mugs, coffee maker and a variety of
+                  beverages, with open and closed shelving to display décor
+                  items. It’s conveniently located next to the dedicated living
+                  room.
+                </p>
+                <p>
+                  3. Floating Recycling Station – placed in the centre island ,
+                  it provides a easier way to throw garbage, recycling and
+                  composting, along with a shelf to store garbage bag supplies.
+                </p>
+                <p>
+                  4. Island – the large island is multi-functional, providing
+                  prep surface, a sink, recycling/garbage and microwave. This
+                  offers secondary eating space for every day casual meals and
+                  becomes a serving area when hosting and entertaining guests.
                 </p>
               </div>
             </section>
