@@ -69,14 +69,6 @@ export default function Navbar() {
           Contact
         </a>
       </div>
-      <div className="space-x-8 block md:hidden mt-4">
-        <a
-          href="https://www.instagram.com/ciszkocontracting/?hl=en"
-          className="text-base font-normal text-gray-600 dark:text-gray-300"
-        >
-          Instagram
-        </a>
-      </div>
     </div>
   );
 }
