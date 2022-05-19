@@ -13,9 +13,9 @@ export default function About() {
         <section>
           <div className="lg:px-4 lg:mt-12 ">
             <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-              We are the best kitchen remodelers in Anacster we work with
-              Ciszkocontracting to finalize our designs - How can we help you
-              plan your dream Ikea kitchen and bathroom renovation.
+              We are the best custom kitchen remodelers in Anacster. We work
+              with Ciszkocontracting to finalize our designs - How can we help
+              you plan your dream Ikea kitchen and bathroom renovation.
             </h1>
             <section>
               <div className="mt-6 text-gray-800 dark:text-white">
@@ -147,7 +147,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={bathroomVanity}
-            alt="Toronto kitchen and bathroom contractors"
+            alt="Ancaster kitchens and bathroom contractors"
             priority={true}
             className="rounded-full"
             width={250}
