@@ -7,9 +7,9 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Custom Kitchen & Bathroom contractors in Anacaster | Ciszkocontracting
-          | Best kitchen remodler in Ancaster | best kitchen designers in
-          Anacaster
+          Custom Kitchens & Bathroom contractors in Anacaster |
+          Ciszkocontracting | Best kitchen remodler in Ancaster | best kitchen
+          designers in Anacaster
         </title>
         <meta property="og:url" content="https://ikeahomebuilder.com" />
         <link rel="canonical" href="https://ikeahomebuilder.com" />
