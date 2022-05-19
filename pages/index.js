@@ -7,8 +7,9 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Top Kitchen & Bathroom Renovation Anacaster | Ciszkocontracting | Best
-          kitchen remodler in Ancaster | Burlington
+          Custom Kitchen & Bathroom contractors in Anacaster | Ciszkocontracting
+          | Best kitchen remodler in Ancaster | best kitchen designers in
+          Anacaster
         </title>
         <meta property="og:url" content="https://ikeahomebuilder.com" />
         <link rel="canonical" href="https://ikeahomebuilder.com" />
@@ -25,7 +26,7 @@ export default function Home() {
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
-          content="Best Kitchen Design & Renovation In Ancaster | Ciszkocontracting | Amazing Ikea Kitchens"
+          content="Best Kitchen Design & Renovation In Ancaster | Ciszkocontracting | Amazing custom Ikea Kitchens "
         />
 
         <meta property="article:published_time" content={Date.now()} />

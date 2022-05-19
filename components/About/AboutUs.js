@@ -54,7 +54,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile2}
-            alt="Ikea home builder in Mississauga"
+            alt="Best kitchen Ikea home builder in Ancaster"
             priority={true}
             className="rounded-full"
             width={250}
@@ -104,7 +104,8 @@ export default function About() {
 
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            3. Pick out your decor,
+            3. Pick out your decor and let us build your dream custom kitchen
+            from Ciszkocontracting.
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
@@ -157,7 +158,7 @@ export default function About() {
 
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            5. Finalize stages,
+            5. Finalize stages as we want to work with you
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">

@@ -26,7 +26,7 @@ export default function Navbar() {
                   src="/logo.jpg"
                   height="100"
                   width="100"
-                  alt="Ikea Home planner"
+                  alt="custom bathrooms from Ikea in Ancaster"
                   className=" shadow"
                 />
               </h1>
