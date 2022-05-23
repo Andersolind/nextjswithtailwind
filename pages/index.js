@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <meta name="robots" content="follow, index" />
         <title>
-          Custom Kitchens & Bathroom contractors in Anacaster |
+          Best Custom Kitchens & Bathroom contractors in Anacaster |
           Ciszkocontracting | Best kitchen remodler in Ancaster | best kitchen
           designers in Anacaster
         </title>
@@ -21,7 +21,7 @@ export default function Home() {
         <meta property="og:site_name" content="ikeahomebuilder" />
         <meta
           property="og:description"
-          content="Find the best designed ikea kitchen renovations in Ancaster, Burlington, Ancaster, Dundas and the GTA"
+          content="Best designed ikea kitchen contractors in Ancaster, Burlington, Ancaster, Dundas and the GTA"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
