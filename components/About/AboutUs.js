@@ -13,7 +13,7 @@ export default function About() {
         <section>
           <div className="lg:px-4 lg:mt-12 ">
             <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-              We are the best custom kitchen remodelers in Anacster. We work
+              We are the best custom kitchen remodelers in Anacaster. We work
               with Ciszkocontracting to finalize our designs - How can we help
               you plan your dream Ikea kitchen and bathroom renovation.
             </h1>
@@ -30,7 +30,7 @@ export default function About() {
                 </p>
 
                 <p>
-                  2. Dedicated Coffee Station – at the end of the kitchen, a
+                  2. Dedicated Coffee Stations – A the end of your kitchen, a
                   coffee station houses mugs, coffee maker and a variety of
                   beverages, with open and closed shelving to display décor
                   items. It’s conveniently located next to the dedicated living
@@ -158,7 +158,7 @@ export default function About() {
 
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            5. Finalize stages as we want to work with you
+            5. Finalize stages as we want to work with you!
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
