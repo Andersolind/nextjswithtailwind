@@ -6,14 +6,16 @@ export default function Home() {
     <div>
       <Head>
         <meta name="robots" content="follow, index" />
+         <meta property="og:url" content="https://ikeahomebuilder.com" />
+        <link rel="canonical" href="https://ikeahomebuilder.com" />
+        <meta property="og:type" content="website" />
+	<meta name="description" content="Best Custom Kitchens & Bathroom contractors in Anacaster"/>
         <title>
           Best Custom Kitchens & Bathroom contractors in Anacaster |
           Ciszkocontracting | Best kitchen remodler in Ancaster | best kitchen
           designers in Anacaster
         </title>
-        <meta property="og:url" content="https://ikeahomebuilder.com" />
-        <link rel="canonical" href="https://ikeahomebuilder.com" />
-        <meta property="og:type" content="website" />
+       
         <meta
           name="google-site-verification"
           content="JeCc0HHrib-Cot3nHlXj0MAei9c9xUQY_6tXsP5Uu3E"
@@ -21,7 +23,7 @@ export default function Home() {
         <meta property="og:site_name" content="ikeahomebuilder" />
         <meta
           property="og:description"
-          content="Best designed ikea kitchen contractors in Ancaster, Burlington, Ancaster, Dundas and the GTA"
+          content="Best designed ikea kitchen and bathroom company in Ancaster, Burlington, Ancaster, Dundas and the GTA"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
@@ -32,6 +34,19 @@ export default function Home() {
         <meta property="article:published_time" content={Date.now()} />
 
         <link rel="icon" href="/favicon.ico" />
+        <script type="application/ld+json">
+          {
+      "@context" : "https://schema.org/",
+      "@type": "Ancaster Kitchen renovations",
+      "name": "Ikea custom kitchen and designs",
+      "author": {
+        "@type" :  "Person",
+        "name": "Paul Ciszko"
+      },
+      "datePublished": "2022-05-31",
+      "description": "This is how our amazing ikea kitchens turn out",
+    }
+    </script>
       </Head>
       <Hero />
       <AboutUs />

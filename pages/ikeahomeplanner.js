@@ -1,3 +1,4 @@
+import Navbar from "../components/Navbar/Navbar";
 export default function IkeaHomePlanner() {
-  return <div>Welcome to our home planner page</div>;
+  return <Navbar></Navbar>;
 }
