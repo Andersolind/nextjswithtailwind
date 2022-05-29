@@ -55,7 +55,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile2}
-            alt="Best kitchen Ikea home builder in Ancaster"
+            alt="Best kitchen Ikea designer in Ancaster"
             priority={true}
             className="rounded-full"
             width={250}
