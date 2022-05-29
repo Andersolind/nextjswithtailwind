@@ -21,7 +21,7 @@ export default function About() {
             <section>
               <div className="mt-6 text-gray-800 dark:text-white">
                 <p className="mb-4">
-                  What are Cabinets? – the cabinets are a charcoal stain on
+                  What are Ikea Cabinets? – the cabinets are a charcoal stain on
                   maple, while the island interior and floating shelves are
                   amaziing . Certain colors have come a long way. It’s very
                   durable, mimics wood grains and is very affordable. The

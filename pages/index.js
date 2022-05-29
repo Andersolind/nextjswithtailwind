@@ -14,9 +14,8 @@ export default function Home() {
           content="Best Custom Kitchens & Bathroom contractors in Anacaster"
         />
         <title>
-          Best Custom Kitchens & Bathroom contractors in Anacaster |
-          Ciszkocontracting kitchen design company | best kitchen designers in
-          Ancaster
+          Best Custom Ikea Kitchens & Bathroom contractors in Anacaster |
+          Ciszkocontracting | best kitchen designers in Ancaster
         </title>
 
         <meta
