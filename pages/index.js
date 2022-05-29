@@ -25,7 +25,7 @@ export default function Home() {
         <meta property="og:site_name" content="ikeahomebuilder" />
         <meta
           property="og:description"
-          content="Best designed ikea kitchen and bathroom company in Ancaster, Burlington, Ancaster, Dundas and the GTA"
+          content="Best designed ikea kitchen and bathroom company in Ancaster, Burlington, Milton, Dundas and the GTA"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
