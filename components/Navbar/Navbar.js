@@ -26,7 +26,7 @@ export default function Navbar() {
                   src="/logo.jpg"
                   height="100"
                   width="100"
-                  alt="custom bathrooms from Ikea in Ancaster"
+                  alt="custom kitchen and bathroom contracror Ikea installers in Ancaster"
                   className=" shadow"
                 />
               </h1>
