@@ -13,9 +13,10 @@ export default function About() {
         <section>
           <div className="lg:px-4 lg:mt-12 ">
             <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-              We are the best custom kitchen remodelers in Anacaster. We work
-              with Ciszkocontracting to finalize our designs - How can we help
-              you plan your dream Ikea kitchen and bathroom renovation.
+              We are the best custom kitchen Ikea remodelers in Anacaster. We
+              work with Ciszkocontracting to finalize our designs - How can we
+              help you plan your dream Ikea kitchen and bathroom. Let our Ikea
+              specialists pick out the custom detailed deisgn for your home.
             </h1>
             <section>
               <div className="mt-6 text-gray-800 dark:text-white">
