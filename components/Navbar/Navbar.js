@@ -40,11 +40,15 @@ export default function Navbar() {
               href="tel:647-271-9727"
               className="text-base  font-normal text-gray-600 dark:text-gray-300"
             >
-              <svg>
-                <title>phone</title>
-                xmlns="http://www.w3.org/2000/svg" className="h-6 w-6"
-                fill="none" viewBox="0 0 24 24" stroke="currentColor"
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-6 w-6"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
                 strokeWidth={2}
+              >
+                <title>phone</title>
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -77,10 +81,15 @@ export default function Navbar() {
             href="tel:647-271-9727"
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
-            <svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={2}
+            >
               <title>phone</title>
-              xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none"
-              viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
