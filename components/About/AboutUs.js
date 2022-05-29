@@ -123,7 +123,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={bath}
-            alt="Best bathroom renovations in Toronto"
+            alt="Best renovation company in Toronto and Ancaster"
             priority={true}
             className="rounded-full"
             width={250}
@@ -163,9 +163,9 @@ export default function About() {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              Designing bathrooms and doing full renovations with contractors
-              can be a very hard task. Let our Ikea spcialists assit you in
-              getting your picture perfect bathroom ready.
+              Designing Ikea bathrooms,kitchens and doing full renovations with
+              contractors can be a very hard task. Let our Ikea specialists
+              assit you in getting your picture perfect bathroom ready.
             </p>
 
             <p className="mb-4">Contact Us Today!</p>
