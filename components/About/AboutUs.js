@@ -134,7 +134,7 @@ export default function About() {
 
         <div className="lg:px-4 lg:mt-12 ">
           <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
-            4. Your future bathroom,
+            4. Your future Ikea bathroom,
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
