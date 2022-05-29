@@ -15,8 +15,8 @@ export default function Home() {
         />
         <title>
           Best Custom Kitchens & Bathroom contractors in Anacaster |
-          Ciszkocontracting | Best kitchen remodler in Ancaster | best kitchen
-          designers in Anacaster
+          Ciszkocontracting kitchen design company | best kitchen designers in
+          Ancaster
         </title>
 
         <meta
