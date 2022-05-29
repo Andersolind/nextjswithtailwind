@@ -68,7 +68,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={bathroom}
-            alt="Ikea home builder in Ancaster"
+            alt="Ikea kitchen company in Ancaster"
             priority={true}
             className="rounded-full"
             width={250}
@@ -94,7 +94,7 @@ export default function About() {
         <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
           <Image
             src={profile}
-            alt="Best renovation company in ancaster"
+            alt="Best Ikea bathroom company in ancaster"
             priority={true}
             className="rounded-full"
             width={250}
