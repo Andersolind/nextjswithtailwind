@@ -12,12 +12,12 @@ export default function About() {
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
         <section>
           <div className="lg:px-4 lg:mt-12 ">
-            <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+            <h2 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
               We are the best custom kitchen Ikea remodelers in Anacaster. We
               work with Ciszkocontracting to finalize our designs - How can we
               help you plan your dream Ikea kitchen and bathroom. Let our Ikea
               specialists pick out the custom detailed deisgn for your home.
-            </h1>
+            </h2>
             <section>
               <div className="mt-6 text-gray-800 dark:text-white">
                 <p className="mb-4">
@@ -78,9 +78,9 @@ export default function About() {
         </div>
 
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+          <h2 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
             2. Make Room For What You Need,
-          </h1>
+          </h2>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
               Amazing Shelves – floating shelves are best put near the corner
@@ -104,10 +104,10 @@ export default function About() {
         </div>
 
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+          <h2 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
             3. Pick out your decor and let us build your dream custom kitchen
             from Ciszkocontracting.
-          </h1>
+          </h2>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
               Microwave Drawer – placing the microwave in the island is
@@ -133,9 +133,9 @@ export default function About() {
         </div>
 
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+          <h2 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
             4. Your future Ikea bathroom,
-          </h1>
+          </h2>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
               Ikea bathrooms can be hard to design let our designers carefully
@@ -158,9 +158,9 @@ export default function About() {
         </div>
 
         <div className="lg:px-4 lg:mt-12 ">
-          <h1 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
+          <h2 className="text-2xl font-bold text-gray-900 lg:text-5xl dark:text-white">
             5. Finalize stages as we want to work with you!
-          </h1>
+          </h2>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
               Designing Ikea bathrooms,kitchens and doing full renovations with
