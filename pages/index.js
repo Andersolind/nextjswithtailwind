@@ -11,10 +11,10 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta
           name="description"
-          content="Best Custom Kitchens & Bathroom contractors in Anacaster"
+          content="Ikea Kitchens & Bathroom contractors in Anacaster"
         />
         <title>
-          Best Ikea kitchen company in Anacaster | Ciszkocontracting
+          Ikea kitchen & Bathroom installers in Anacaster | Ciszkocontracting
         </title>
 
         <meta
@@ -24,12 +24,12 @@ export default function Home() {
         <meta property="og:site_name" content="ikeahomebuilder" />
         <meta
           property="og:description"
-          content="Best designed ikea kitchen and bathroom company in Ancaster, Burlington, Milton, Dundas and the GTA"
+          content="Modern designed ikea kitchen and bathroom company in Ancaster, Burlington, Milton, Dundas and the GTA"
         />
         <meta property="og:image" content="/logo.jpg" />
         <meta
           property="og:title"
-          content="Best Kitchen Design & Renovation In Ancaster | Ciszkocontracting | Amazing custom Ikea Kitchens "
+          content="Ikea Kitchen & Bathroom Renovation In Ancaster | Ciszkocontracting | Amazing Ikea Kitchens"
         />
 
         <meta property="article:published_time" content={Date.now()} />
